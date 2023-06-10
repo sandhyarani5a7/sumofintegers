@@ -1,2 +1,2 @@
 # sumofintegers
-sum of two integers program
+sum of two integers program in java
